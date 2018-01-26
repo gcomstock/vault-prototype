@@ -23,7 +23,7 @@ class FolderList extends Component {
             <Button styleClass="Button--clear"/>
           </div>
         </div>
-        <FolderListItem isSelected={false} folderName="Harambe"/>
+        <FolderListItem isSelected={false} folderName="Harambe2"/>
       </div>
     )
   }

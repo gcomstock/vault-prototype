@@ -1,0 +1,7 @@
+.FolderListItem {
+  display: flex;
+  padding: 1rem 2rem;
+  height: 6rem;
+  background-color: #7F97D7;
+}
+

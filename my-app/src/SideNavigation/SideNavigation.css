@@ -1,0 +1,26 @@
+.SideNavigation {
+  flex: 0 0 auto;
+  background-color: #767489;
+  border-right: 1px solid #ffffff;
+  width: 32rem;
+  position: relative;
+}
+
+.SideNavigation--collapsed {
+  width: 8rem;
+}
+
+
+.SideNavigation__toggle {
+  background-color: rgba(0,0,0,0.1);
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 6rem;
+  height: 6rem;
+  cursor: pointer;
+}
+
+.SideNavigation__item {
+  background-color: red;
+}

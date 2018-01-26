@@ -1,0 +1,15 @@
+.PageHeader {
+  height: 8rem;
+  border-right: 1px solid #ffffff;
+  background-color: #817BBE;
+  display: flex;
+  padding: 0 4rem;
+  margin-bottom: 4rem;
+}
+
+.PageHeader__title {
+  flex: 0 1 auto;
+  align-self: center;
+  color: #fff;
+  font-size: 18px;
+}

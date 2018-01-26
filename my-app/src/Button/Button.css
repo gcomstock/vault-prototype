@@ -1,0 +1,15 @@
+.Button {
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 0 2rem;
+  height: 6rem;
+  line-height: 6rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.Button--clear {
+  color: #877FD7;
+  background-color: transparent;
+}
